@@ -110,4 +110,38 @@ Song Name: These Days
  Preview Link: https://api.spotify.com/v1/tracks/5tsI3xxDHDgzHhn30LTQNz
 Album Name: This Isn't The Album
 =====End Spotify Log Entry======
+[object Object]=====Begin Spotify Log Entry=====
+Artist: Mike Stud
+Song Name: These Days
+ Preview Link: https://api.spotify.com/v1/tracks/5tsI3xxDHDgzHhn30LTQNz
+Album Name: This Isn't The Album
+=====End Spotify Log Entry======
+[object Object]======Begin Concert Log Entry======
+Name of the musician: weezer
+Name of the venue: Jockey Club Del Peru Telepodromo San Roque
+Venue location: Cercado De Lima
+ Date of event: 09-22-2019
+======End Concert Log Entry======
+[object Object]======Begin Concert Log Entry======
+Name of the musician: weezer
+Name of the venue: Jockey Club Del Peru Telepodromo San Roque
+Venue location: Cercado De Lima
+ Date of event: 09-22-2019
+======End Concert Log Entry======
+[object Object]======Begin Movie Log Entry======
+Movie title: Miracle
+Year released: 2004
+IMDB rating: 7.5
+Rotten Tomatoes rating: 80%
+Country where produced: Canada, USA
+Language: English
+Plot: The true story of Herb Brooks, the player-turned-coach who led the 1980 U.S. Olympic hockey team to victory over the seemingly invincible Russian squad.
+Actors: Kurt Russell, Patricia Clarkson, Noah Emmerich, Sean McCann
+======End Movie Log Entry======
+=====Begin Spotify Log Entry=====
+Artist: Backstreet Boys
+Song Name: I Want It That Way
+ Preview Link: https://api.spotify.com/v1/tracks/6e40mgJiCid5HRAGrbpGA6
+Album Name: The Hits--Chapter One
+=====End Spotify Log Entry======
 [object Object]
